@@ -1,6 +1,7 @@
 <!--
 **ecosse3/ecosse3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<p align="center"><img src="avatar.png" /></p>
 <h1 align="center">Hi 👋, I'm Saqib</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan 🇵🇰</h3>
 
