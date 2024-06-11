@@ -3,7 +3,7 @@
 -->
 <p align="center"><img style="width: 20%" src="avatar.png" /></p>
 <h1 align="center">Hi 👋, I'm Saqib</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan 🇵🇰</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/saqixpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saqixpro" height="30" width="30" /></a>
