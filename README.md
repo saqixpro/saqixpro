@@ -59,12 +59,6 @@ My approach combines **React Native** for seamless cross-platform UI with a robu
 
 ---
 
-### 📊 GitHub Stats
-![Saqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=saqixpro&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saqixpro&layout=compact&theme=transparent)
-
----
-
 ### 💬 Let's Talk
 If you have a complex AI vision and need someone who understands the full stack—from prompt engineering to memory-safe audio handling—reach out via my **[Landing Page](https://saqibafridi-626aa.web.app)** or email me at **saqib@itdunya.com**.
 
