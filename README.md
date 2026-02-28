@@ -15,11 +15,8 @@
 
 ---
 
-### 🧠 I build mobile apps that don't just "use" AI — they are powered by it.
-
-Most developers can connect an API, but very few can handle the "ugly" parts of AI: managing **low-latency audio buffers**, perfecting **Voice Activity Detection (VAD)**, and ensuring your LLM doesn't hallucinate during a live user session.
-
-My approach combines **React Native** for seamless cross-platform UI with a robust **GCP (Cloud Run/FastAPI)** backbone. Whether it's an AI Relationship Coach with real-time Whisper transcription or a complex automation tool, I focus on building secure, scalable architectures that feel "human" to the end-user.
+### Professional Summary
+Specializing in the development of AI-driven mobile applications with a focus on real-time voice intelligence. I bridge the gap between complex machine learning backends and seamless cross-platform mobile interfaces. Expert in managing low-latency audio processing, Voice Activity Detection (VAD), and prompt engineering for production-grade LLM implementations.
 
 ---
 
