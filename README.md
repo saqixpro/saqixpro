@@ -26,9 +26,8 @@
   <img src="https://img.shields.io/badge/python%20-%2361DAFB.svg?&style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/react%20native%20-%231CAACE.svg?&style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/expo%20-%23000000.svg?&style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/go%20-high%20-level%20-%23764ABC.svg?&style=for-the-badge&logo=gohighlevel&logoColor=white" />
   <img src="https://img.shields.io/badge/google%20-forms%20-%23999999.svg?&style=for-the-badge&logo=googleforms&logoColor=white" />
   <img src="https://img.shields.io/badge/google%20-cloud%20-%2335BF5C.svg?&style=for-the-badge&color=e1b4f4&logo=googlecloud&logoColor=3f1fba"&labelColor=3f1fba />
   <img src="https://img.shields.io/badge/firebase%20-%23007ACC.svg?&style=for-the-badge&logo=firebase&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/openai%20-%23007ACC.svg?&style=for-the-badge&logo=openai&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/openai%20-%23007ACC.svg?&style=for-the-badge&logo=chatgpt&logoColor=yellow" />
 </p>
