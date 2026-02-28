@@ -1,7 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Saqib Khan Afridi
-### AI-Native Mobile Architect | React Native • Real-Time Voice • GCP
+## 👋 Hi I'm Saqib!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saqixpro&label=PROFILE%20VIEWS&color=007ACC&style=for-the-badge" alt="saqixpro" />
